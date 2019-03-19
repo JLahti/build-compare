@@ -1,0 +1,9 @@
+<constraints>
+  <sandbox>chroot</sandbox>
+  <hardware>
+    <cpu>
+      <flag>sse2</flag>
+    </cpu>
+  </hardware>
+  <fstype exclude="false">tmpfs</fstype>
+</constraints>
